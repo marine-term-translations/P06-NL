@@ -1,0 +1,16 @@
+batch-size: 20
+target_languages:
+  - nl
+sources:
+  - name: P06
+    url: http://vocab.nerc.ac.uk/ldes/P06/
+    language: en
+    id-path: http://www.w3.org/2004/02/skos/core#Concept
+    items:
+      - name: definition
+        path: http://www.w3.org/2004/02/skos/core#definition
+      - name: altLabel
+        path: http://www.w3.org/2004/02/skos/core#altLabel
+      - name: prefLabel
+        path: http://www.w3.org/2004/02/skos/core#prefLabel
+base_uri: https://marine-term-translations.github.io/P06-NL
