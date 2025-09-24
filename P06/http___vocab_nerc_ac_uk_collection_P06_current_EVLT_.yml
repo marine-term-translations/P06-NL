@@ -3,17 +3,17 @@ labels:
   original: eV
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
-  original: The amount of energy gained or lost by the charge of a single electron
-    moving across an electric potential difference of one volt. One electronvolt equal
-    to 1.602*10−19 joules.
+  original: "The amount of energy gained or lost by the charge of a single electron\
+    \ moving across an electric potential difference of one volt. One electronvolt\
+    \ equal to 1.602*10\u221219 joules."
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Electronvolts
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/EVLT/1/
