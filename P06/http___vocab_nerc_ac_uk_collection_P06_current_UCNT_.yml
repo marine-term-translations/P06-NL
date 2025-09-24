@@ -3,17 +3,17 @@ labels:
   original: counts
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A proprietary unit for RDI ADCP instruments, which is proportional to
     decibels (dB) and used to measure echo intensity. Counts are converted to dB using
     a coefficient (Kc) for each ADCP instrument and each beam.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Counts
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/UCNT/1/
