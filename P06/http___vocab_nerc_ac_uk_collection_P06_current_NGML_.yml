@@ -3,16 +3,16 @@ labels:
   original: ng/ml
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A unit of mass concentration equal to 10^-12 of the SI unit of mass (kilogram)
     in one part in 10^6 of the SI unit of volume (cubic metre).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Nanograms per millilitre
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/NGML/3/
