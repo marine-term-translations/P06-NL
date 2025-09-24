@@ -3,7 +3,7 @@ labels:
   original: nmol/mol
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Molar fraction of 10^-9 of the SI unit of quantity of matter (the mole)
     per SI unit quantity of matter. A concentration unit used to express the number
@@ -11,10 +11,10 @@ labels:
     the total number of moles in the given mixture.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Nanomoles per mole
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/NMPM/1/

@@ -3,17 +3,17 @@ labels:
   original: yyyymmdd
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A date according to the Gregorian Calendar expressed as an 8-byte string
     with the year in bytes 1-4, month within year in bytes 5-6 and day within month
     in bytes 7-8.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Gregorian date (yyyymmdd)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/UYMD/2/
