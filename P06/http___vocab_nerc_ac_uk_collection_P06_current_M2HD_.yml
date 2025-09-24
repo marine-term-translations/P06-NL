@@ -1,17 +1,17 @@
 labels:
-- name: altLabel
-  original: m^2/Hz/deg
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Unavailable
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Square metres per Hertz per degree
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P06/current/M2HD/1/
+  - name: "altLabel"
+    original: "m^2/Hz/deg"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "m^2/Hz/deg"
+  - name: "definition"
+    original: "Unavailable"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Square metres per Hertz per degree"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P06/current/M2HD/1/"
