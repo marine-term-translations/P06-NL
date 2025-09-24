@@ -3,7 +3,7 @@ labels:
   original: nmol/mg/min
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: 10^-9 of the SI unit of quantity of matter (the mole) per milligram of
     a substance per minute. Used to express the activity of enzymes by giving the
@@ -11,10 +11,10 @@ labels:
     (milligrams) in a given amount of time (minute).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Nanomoles per milligram per minute
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/NPMM/1/

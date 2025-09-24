@@ -3,16 +3,16 @@ labels:
   original: mBq/m^2/d
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: One radioactive disintegration per thousand seconds in material passing
     through an area of one square metre during a period of one day (86400 seconds).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Millibecquerels per square metre per day
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/MBQF/4/
