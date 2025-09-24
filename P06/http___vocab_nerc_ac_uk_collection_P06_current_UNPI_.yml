@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: ng
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: 10^-9 grams or one 10^-12 of the SI standard unit of mass (kilogram).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Nanograms
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UNPI/3/

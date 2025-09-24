@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: umol/dpm
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: 10^-6 of the SI unit of quantity of matter (the mole) per disintegrations
+    per minute. Used to express the ratio of POC to Thorium-234.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Micromoles per disintegrations per minute
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UDPM/2/

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: uEquiv/l
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount of substance or substances in a litre of solution that will
+    react with one microgram of hydrogen.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: MicroEquivalents per litre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UEQL/2/

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: '#/cm^3'
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Quantification of occurrence of an observed phenomenon in one part in
+    10^6 of the SI unit of volume. Equivalent to number per millilitre.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Number per cubic centimetre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/NCM3/1/

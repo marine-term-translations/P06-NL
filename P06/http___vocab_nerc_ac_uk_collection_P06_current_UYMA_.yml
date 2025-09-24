@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Myr
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The length of time elapsed expressed as millions of years between the
+    event of interest and the year 1950 AD.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Millions of years before present
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UYMA/3/

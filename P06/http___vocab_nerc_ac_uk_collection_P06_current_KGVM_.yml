@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: kg/m^3/m
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: One SI standard unit of mass per SI standard unit of volume per SI standard
+    unit of length.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Kilograms per cubic metre per metre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/KGVM/1/

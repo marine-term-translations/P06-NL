@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: uGal/m
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A rate of change of one millionth part of a unit of gravitational acceleration
+    equal to one centimetre per second per second over a distance of one metre.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: MicroGals per metre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UGPM/2/

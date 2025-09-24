@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Pa
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The derived unit of pressure or stress in the international System of
+    Units (SI). It is defined as one newton per square metre.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Pascals
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/PASX/2/

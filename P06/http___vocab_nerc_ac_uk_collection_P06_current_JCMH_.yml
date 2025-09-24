@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: J/cm^2/d
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Radiant energy per 10^-4 SI unit area over a period of one day.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Joules per square centimetre per day
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/JCMH/1/

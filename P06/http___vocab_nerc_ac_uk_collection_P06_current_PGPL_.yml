@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: pg/l
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: One 10^15 part of the SI standard unit of mass of the measurand per litre
+    volume of matrix..
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Picograms per litre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/PGPL/2/

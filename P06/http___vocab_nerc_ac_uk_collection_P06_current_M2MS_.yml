@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: mol/m^2/s
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: SI unit of quantity of matter per SI unit area per SI unit of time.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Moles per square metre per second
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/M2MS/3/

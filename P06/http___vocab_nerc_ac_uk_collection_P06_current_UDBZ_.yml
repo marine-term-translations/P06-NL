@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: dBZ
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Radar reflectivity unit. Decibels with a reference level of 1mm^6/m^3,
+    which is equal to a cubic micron.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Decibels of Z
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UDBZ/1/

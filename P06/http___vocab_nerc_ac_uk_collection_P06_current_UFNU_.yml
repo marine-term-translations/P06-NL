@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: FNU
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Standardised scale for nephelometric measurement of turbidity calibrated
+    against formazine solutions of different concentration and measured using an 860
+    nm light (near IR) with a 90 degree detection angle (ISO7027 compliant).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Formazin Nephelometric Units
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UFNU/1/

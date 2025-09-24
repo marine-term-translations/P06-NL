@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: uW/cm^2/nm
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The power (scaled by 10^-6) per SI unit of area (scaled by 10^-4) produced
+    per SI unit of length (scaled by 10^-9).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Microwatts per square centimetre per nanometre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UWCN/1/

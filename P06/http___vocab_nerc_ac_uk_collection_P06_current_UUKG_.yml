@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: ug/kg
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: One part per 10^9 (billion) by weight of the measurand in the matrix.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Micrograms per kilogram
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UUKG/3/

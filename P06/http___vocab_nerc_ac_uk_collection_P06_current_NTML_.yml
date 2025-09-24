@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Nm
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A unit of length used to measure distance at sea, equivalent to 1852 standard
+    SI units of length (metres).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Nautical miles
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/NTML/3/

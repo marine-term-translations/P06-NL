@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: mg/mg/h
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: 10^-6 of the SI unit of mass (kilogram) per 10^-6 of the SI unit of mass
+    over 3600 times one SI standard unit of time.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Milligrams per milligram per hour
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/MGMH/1/

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: BC
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A calendar year prior to the origin of the Gregorian calendar expressed
+    as a incrementing integer going back into the past.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Gregorian calendar years before Christ
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/UYBC/2/

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: m^2/s^3
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The SI unit of area, defined as a square of one metre long on each side,
+    per cubic SI unit of time (seconds).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Square metres per second cubed
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/SQM3/1/

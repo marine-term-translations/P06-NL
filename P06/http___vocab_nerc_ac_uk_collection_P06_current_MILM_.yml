@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: mm^2
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A unit of area defined as a square of one millimetre long on each side.
+    It has a dimension of L2 where L is length. It can be converted to the corresponding
+    standard SI unit area by multiplying its value by a factor of 10^-6.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Square millimetres
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/MILM/1/

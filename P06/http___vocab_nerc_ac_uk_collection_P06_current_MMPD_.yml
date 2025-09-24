@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: mm/d
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A change in location of a distance of one thousandth (0.001) of a metre
+    in an elapsed time of one day (86400 seconds).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Millimetres per day
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/MMPD/4/

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: uS/cm
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: One part per 10^6 (million) of the SI derived unit of electrical conductivity
+    divided by 10^2 parts of the SI base unit of length.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: MicroSiemens per centimetre
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P06/current/USCM/2/
