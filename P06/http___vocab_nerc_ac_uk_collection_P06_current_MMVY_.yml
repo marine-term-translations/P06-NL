@@ -3,16 +3,16 @@ labels:
   original: mmol/m^3/y
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A rate of change of one part in 10^3 of the SI unit of quantity of matter
     per SI unit of volume in a period of an average calendar year (365.25 days).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Millimoles per cubic metre per year
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/MMVY/1/
