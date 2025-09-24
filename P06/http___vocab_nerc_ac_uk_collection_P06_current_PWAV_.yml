@@ -3,16 +3,16 @@ labels:
   original: pW/cm^2/l
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The power (scaled by 10^-12) per SI unit of area (scaled by 10^-4) produced
     per SI unit of volume (scaled by 10^-3).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Picowatts per square centimetre per litre
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/PWAV/2/

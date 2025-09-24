@@ -3,7 +3,7 @@ labels:
   original: mg/mg/h/(umol/m^2/s)
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: 10^-6 of the SI unit of mass (kilogram) per 10^-6 of the SI unit of mass
     over 3600 times one SI standard unit of time per (one part per 10^6 of the SI
@@ -11,11 +11,11 @@ labels:
     units in brackets are units for photosynthetic photon flux density (PPFD).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Milligrams per milligram per hour per (micromole per square metre per
     second)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/MGPF/1/
