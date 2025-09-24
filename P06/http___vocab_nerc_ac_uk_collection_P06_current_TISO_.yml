@@ -3,7 +3,7 @@ labels:
   original: ISO8601
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: String corresponding to any legal ISO8601 format mask. This is the concatenation
     of 'yyyy-mm-dd' with any part of 'Thh:mm:ss.sss' (including none) depending on
@@ -11,10 +11,10 @@ labels:
     UT.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: ISO8601
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/TISO/2/
