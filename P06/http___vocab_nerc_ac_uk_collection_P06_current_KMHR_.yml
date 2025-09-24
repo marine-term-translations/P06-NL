@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: km/hr
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: A change in location of a distance of one thousand metres in an elapsed
-    time of one hour (3600 seconds).
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Kilometres per hour
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P06/current/KMHR/1/
+  - name: "altLabel"
+    original: "km/hr"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "to be filled in"
+  - name: "definition"
+    original: "A change in location of a distance of one thousand metres in an elapsed time of one hour (3600 seconds)."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Een verandering in locatie van een afstand van duizend meter in een verstreken tijd van een uur (3600 seconden)."
+  - name: "prefLabel"
+    original: "Kilometres per hour"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P06/current/KMHR/1/"
