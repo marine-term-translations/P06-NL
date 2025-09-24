@@ -3,7 +3,7 @@ labels:
   original: J
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A derived unit of energy in the International System of Units. It is equal
     to the energy transferred (or work done) when applying a force of one newton through
@@ -12,10 +12,10 @@ labels:
     the English physicist James Prescott Joule (1818-1889).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Joule
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/JOUL/2/
