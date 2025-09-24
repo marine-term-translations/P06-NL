@@ -3,16 +3,16 @@ labels:
   original: g/km^2
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: 10^-3 of the SI unit of mass (kilogram) per 10^3 of the SI unit of area
     (square metre).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Grams per square kilometre
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/GPKM/1/
