@@ -3,7 +3,7 @@ labels:
   original: ohm.m
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Electrical resistance expressed in Ohms of a one metre length of conductor.
     Ohm is the SI unit of electrical resistance defined as the electrical resistance
@@ -11,10 +11,10 @@ labels:
     when a current of one ampere is flowing through it.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Ohm metres
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/OHMM/1/

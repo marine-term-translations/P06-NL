@@ -3,16 +3,16 @@ labels:
   original: pmol/mg/min
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A change in the quantity of matter of 10^-12 moles in 10^-6 of the SI
     unit of mass over a period of 60 seconds.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Picomoles per milligram per minute
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/PMMM/1/
