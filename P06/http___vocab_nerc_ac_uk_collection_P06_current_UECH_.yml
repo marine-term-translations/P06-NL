@@ -3,16 +3,16 @@ labels:
   original: uE/cm^2/h
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Energy of 10^-6 moles of photons per 10^-4 SI unit area over a period
     of one hour.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: MicroEinsteins per square centimetre per hour
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/UECH/1/

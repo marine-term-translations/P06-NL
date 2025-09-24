@@ -3,16 +3,16 @@ labels:
   original: g/l
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A unit of mass concentration equal to 10^-3 of the SI unit of mass (kilogram)
     per 10^3 the SI unit of volume (cubic metre).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Grams per litre
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/GPRL/2/
