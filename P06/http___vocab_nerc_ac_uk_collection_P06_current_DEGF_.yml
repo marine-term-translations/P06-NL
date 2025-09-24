@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: degF
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Unit of object hotness based upon a scale having 32 as the freezing point
-    of water and 212 as the boiling point of water.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Degrees Fahrenheit
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P06/current/DEGF/2/
+  - name: "altLabel"
+    original: "degF"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "degF"
+  - name: "definition"
+    original: "Unit of object hotness based upon a scale having 32 as the freezing point of water and 212 as the boiling point of water."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Degrees Fahrenheit"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P06/current/DEGF/2/"
