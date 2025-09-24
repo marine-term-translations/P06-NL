@@ -8,7 +8,7 @@ labels:
     original: "Unit of object hotness based upon a scale having 32 as the freezing point of water and 212 as the boiling point of water."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Eenheid van object hitte op basis van een schaal met 32 ​​als het vriespunt van water en 212 als het kookpunt van water."
   - name: "prefLabel"
     original: "Degrees Fahrenheit"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
