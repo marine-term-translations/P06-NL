@@ -3,16 +3,16 @@ labels:
   original: mBq/g
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: One radioactive disintegration per thousand seconds per 1000th SI unit
     of sample mass.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Millibecquerels per gram
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/MBPG/1/

@@ -3,17 +3,17 @@ labels:
   original: pptr
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Proportion of one part in 10^12 by weight, volume or amount (i.e. moles
     or atoms). Nanograms per kilogram is a more explicit alternative for parts per
     trillion by weight.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Parts per trillion
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/PPTR/2/

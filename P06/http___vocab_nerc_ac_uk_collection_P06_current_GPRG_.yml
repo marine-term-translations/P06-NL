@@ -3,15 +3,15 @@ labels:
   original: g/g
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: One part by weight of the measurand in the matrix.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Grams per gram
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P06/current/GPRG/1/
